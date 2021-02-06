@@ -25,7 +25,7 @@ Having offline functionality is paramount to the success of an application that 
 
 ## Demonstration
 
-    pending
+https://evening-castle-35235.herokuapp.com/
 
 ## Credits
 
